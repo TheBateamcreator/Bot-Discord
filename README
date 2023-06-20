@@ -1,0 +1,19 @@
+Bonjour || Bonsoir
+
+Pour commencer ouvré le fichier " config.js ou config " et mettez le token du bot dans l'endroit 
+indiquez puis enregister le fichier et fermer le .
+
+"Avant tout assurez vous d'avoir installer Nodejs (le liens : https://nodejs.org/en) 
+et clicker sur la version "Recommended for most users"
+
+Pour lancer le bot il vous suffit, de faire un click Droit sur le dossier du bot et d'ouvrir un terminale.
+
+Dans ce terminale, vous allez écrire " npm i discord.js ms mysql fs " (Cette partie ne ce fait qu'une fois)
+
+Une fois le téléchargement terminer il vous suffit d'écrire " node main " dans le même terminale.
+
+Afin que votre bot soit Actif 24/24h il y a deux options soit vous laisser votre pc tourner avec le 
+script lancer soit vous heberger votre bot.
+
+Pour me Contactez : 
+Discord : aroft
